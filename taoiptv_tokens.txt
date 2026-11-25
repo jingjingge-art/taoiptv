@@ -1,0 +1,5 @@
+# 每行填写一个淘 IPTV token，不要加入 https:// 或其他参数
+YOUR_TOKEN_HERE
+
+7f8d18559f4d397d
+828aa8230616d397
